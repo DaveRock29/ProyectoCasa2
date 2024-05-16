@@ -1,0 +1,14 @@
+:root {
+    --red: #f00;
+    --white: #fff;
+    --orange: #f6a233;
+}
+
+body {
+    background: var(--bg);
+}
+
+.gallo {
+    --bg: var(--red);
+}
+
